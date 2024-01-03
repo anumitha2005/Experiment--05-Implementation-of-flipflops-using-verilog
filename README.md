@@ -1,4 +1,4 @@
- Experiment--05-Implementation-of-flipflops-using-verilog
+# Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: 
 To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  
@@ -119,7 +119,7 @@ STEP 6: Run the program and choose RTL viewer to get RTL realization
 ### PROGRAM 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 
-Developed by: M.R ANUMITHA
+Developed by: M ANUMITHA 
 
 RegisterNumber:212223040018
 ```
@@ -199,4 +199,4 @@ endmodule
 ### T FLIPFLOPS :
 ![Screenshot 2023-09-25 131937](https://github.com/AnandhamoorthyKarthikeyan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119475998/ed66aca2-0aa3-4b46-b65c-6eb7274f001c)
 # RESULTS :
-Implementation-of-flipflops-using-verilog successfully completed
+Implementation-of-flipflops-using-verilog successfully completed.
